@@ -1,1 +1,0 @@
-# AWS-Serverless-File-Compression-Using-S3-EventBridge-Lambda-Python
